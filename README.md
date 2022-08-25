@@ -18,7 +18,7 @@ I am a French System Network and Security Engineer
 
 My areas of interest in IT are:
 - Pentest/Red Team
-- system and network architecture and infrastructure
+- System and Network Architecture and Infrastructure
 - ROOT-ME: 2960 points
 - TryHackMe:
 <img src="https://tryhackme-badges.s3.amazonaws.com/skillseries.png" alt="TryHackMe">

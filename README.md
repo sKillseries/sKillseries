@@ -1,3 +1,9 @@
+<p align="center"><b style=font-size:40px>WHO AM I</b></p>
+<p align="center">
+<br>
+<samp>
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/sgMLlzON4djJ15wQIh/giphy.gif" width="100"/>
 ### Hi there 👋
 
 <!--

@@ -11,9 +11,8 @@
 
 ---
 
-### Hi there 👋
-
 ### :man_technologist: About Me:
+Hi there 👋,
 I am a French System Network and Security Engineer
 
 My areas of interest in IT are:
@@ -24,7 +23,9 @@ My areas of interest in IT are:
 <img src="https://tryhackme-badges.s3.amazonaws.com/skillseries.png" alt="TryHackMe">
 
 ---
+
 - 🔭 I’m currently working on offensive dev tools with python and secure infrastructure deployment automation.
+
 <!--
 **sKillseries/sKillseries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

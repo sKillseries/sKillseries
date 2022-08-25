@@ -3,9 +3,26 @@
 <br>
 <samp>
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/sgMLlzON4djJ15wQIh/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="100"/>
+</div>
+<p align="center"><b style=font-size:40px> sKillseries - IT specialist</b></p>
+</samp>
+</p>
+
+---
+
 ### Hi there 👋
 
+### :man_technologist: About Me:
+I am a French System Network and Security Engineer
+
+My areas of interest in IT are:
+- Pentest/Red Team
+- ROOT-ME:
+- TryHackMe:
+<img src="https://tryhackme-badges.s3.amazonaws.com/skillseries.png" alt="TryHackMe">
+
+---
 <!--
 **sKillseries/sKillseries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

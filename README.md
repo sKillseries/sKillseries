@@ -34,7 +34,7 @@ My areas of interest in IT are:
 </p>
 
 - 🔭 I’m currently working on the development of offensive tools with python and on the automation of secure infrastructure deployment.
-- 📫 How to reach me: [![Linkedin Badge ](https://img.shields.io/badge/-sKillseries-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matthieu-belleau/)
+- 📫 How to reach me: [![Linkedin Badge ](https://img.shields.io/badge/-sKillseries-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/👨🏾‍💻-matthieu-belleau-644157172/)
 
 <!--
 **sKillseries/sKillseries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

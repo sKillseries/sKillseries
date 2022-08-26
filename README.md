@@ -3,7 +3,7 @@
 <br>
 <samp>
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="150"/>
 </div>
 <p align="center"><b style=font-size:40px> sKillseries - IT specialist</b></p>
 </samp>
@@ -24,6 +24,14 @@ My areas of interest in IT are:
 <img src="https://tryhackme-badges.s3.amazonaws.com/skillseries.png" alt="TryHackMe">
 
 ---
+
+<p align="center">
+<samp>
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/YQduDHR3pMlwunQptu/giphy.gif" width="150"/>
+</div>
+</samp>
+</p>
 
 - 🔭 I’m currently working on offensive dev tools with python and secure infrastructure deployment automation.
 

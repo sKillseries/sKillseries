@@ -33,7 +33,7 @@ My areas of interest in IT are:
 </samp>
 </p>
 
-- 🔭 I’m currently working on offensive dev tools with python and secure infrastructure deployment automation.
+- 🔭 I’m currently working on the development of offensive tools with python and on the automation of secure infrastructure deployment.
 
 <!--
 **sKillseries/sKillseries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

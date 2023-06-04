@@ -52,4 +52,12 @@ Here are some ideas to get you started:
 -->
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sKillseries&langs_count=10&layout=compact&theme=github_dark" width="41.8%"/> <img src="https://github-readme-stats.vercel.app/api?username=sKillseries&theme=github_dark" width="50%"/>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/sKillseries">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sKillseries&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sKillseries&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>

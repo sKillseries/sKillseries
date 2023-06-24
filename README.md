@@ -3,7 +3,8 @@
 <br>
 <samp>
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="150"/>
+<img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="250"/>
+<img src="https://media.giphy.com/media/YQduDHR3pMlwunQptu/giphy.gif" width="150"/>
 </div>
 <p align="center"><b style=font-size:40px> sKillseries - IT specialist</b></p>
 </samp>
@@ -38,14 +39,6 @@ My areas of interest in IT are:
 </div>
 
 ---
-
-<p align="center">
-<samp>
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/YQduDHR3pMlwunQptu/giphy.gif" width="150"/>
-</div>
-</samp>
-</p>
 
 - 🔭 I’m currently working on the development of offensive tools with python as well as on the automation of secure infrastructure deployment and some others personal project.
 - 📫 How to reach me: [![Linkedin Badge ](https://img.shields.io/badge/-sKillseries-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/👨🏾‍💻-matthieu-belleau-644157172/)

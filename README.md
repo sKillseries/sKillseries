@@ -9,6 +9,10 @@
 <p align="center"><b style=font-size:40px> sKillseries - IT specialist</b></p>
 </samp>
 </p>
+<p align="center">
+  <a href="https://twitter.com/sKillseries"><img alt="Twitter/X" src="https://img.shields.io/twitter/follow/sKillseries">
+  <a href="https://www.youtube.com/channel/UCKdnf08iK81xzOzl1Bg0PEw"><img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCKdnf08iK81xzOzl1Bg0PEw">
+</p>
 
 ---
 

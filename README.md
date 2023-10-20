@@ -4,7 +4,7 @@
 <samp>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="250"/>
-<img src="https://media.giphy.com/media/YQduDHR3pMlwunQptu/giphy.gif" width="150"/>
+
 </div>
 <p align="center"><b style=font-size:40px> sKillseries - IT specialist</b></p>
 </samp>
@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me:
 Hi there 👋,
-
+<img src="https://media.giphy.com/media/YQduDHR3pMlwunQptu/giphy.gif" width="150"/>
 I am a French System Network and Security Engineer.
 
 My areas of interest in IT are:

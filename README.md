@@ -4,7 +4,6 @@
 <samp>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="250"/>
-
 </div>
 <p align="center"><b style=font-size:40px> sKillseries - IT specialist</b></p>
 </samp>
@@ -15,10 +14,11 @@
 </p>
 
 ---
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/YQduDHR3pMlwunQptu/giphy.gif" width="150"/>
+</div>
 
 ### :man_technologist: About Me:
-
-<img src="https://media.giphy.com/media/YQduDHR3pMlwunQptu/giphy.gif" width="150"/>
 
 Hi there 👋,
 
